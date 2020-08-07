@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi I'm Mohamed 👋</h1>
+<h1 align="center">Hey welcome, Ali is here 👋</h1>
 <p align="center">
     <a href="https://www.facebook.com/ali.ussama"><img src="https://img.shields.io/badge/facebook-%230177B5?style=flat&logo=facebook&logoColor=whitee"/></a>
     <a href="https://www.linkedin.com/in/aliussama"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
@@ -20,8 +20,9 @@ Hey, welcome it's good to have you here, let me introduce myself first, I'm Ali 
 - Strong engineering professional with a Bachelor's Degree focused in Computer Science from
 Faculty of Computer and Information Science.
 
-- 🔭 I'm a software Engineer [@Al-Wefaq](https://www.alwefaq.com/en/) in Cairo, Egypt
-- 🔍 I have 2 live apps: 
-  - <a href="https://play.google.com/store/apps/details?id=com.company.mawarees"><img src="https://img.shields.io/badge/-%23414141?style=flat&logo=google%20play&logoColor=white"/></a>[Inheritance equtation in quraan (Android App)](https://play.google.com/store/apps/details?id=com.company.mawarees)
-  - Wazaker App ([Android version](https://play.google.com/store/apps/details?id=com.wazakerdailyaya&gl=DE), [iOS version](https://apps.apple.com/app/apple-store/id1453500014))
-- 💬 Ask me about **Android-Kotlin**
+- 🔭 Android Engineer [@Al-Wefaq](https://www.alwefaq.com/en/) in Cairo, Egypt
+- 🔍 My 4 live apps: 
+  - [Inheritance equtation in quraan (Android App)](https://play.google.com/store/apps/details?id=com.company.mawarees)  <a href="https://play.google.com/store/apps/details?id=com.company.mawarees"><img src="https://img.shields.io/badge/-%23414141?style=flat&logo=google%20play&logoColor=white"/></a>
+  - Al-tech Sales ([Android App](https://play.google.com/store/apps/details?id=com.ekc.sales)  <a href="https://play.google.com/store/apps/details?id=com.ekc.sales"><img src="https://img.shields.io/badge/-%23414141?style=flat&logo=google%20play&logoColor=white"/></a>
+  - SEC Data Collector ([Android App](https://play.google.com/store/apps/details?id=com.ekc.ekccollector)  <a href="https://play.google.com/store/apps/details?id=com.ekc.ekccollector"><img src="https://img.shields.io/badge/-%23414141?style=flat&logo=google%20play&logoColor=white"/></a>
+  - EKC Tracking ([Android App](https://play.google.com/store/apps/details?id=com.ekc.ekctracking)  <a href="https://play.google.com/store/apps/details?id=com.ekc.ekctracking"><img src="https://img.shields.io/badge/-%23414141?style=flat&logo=google%20play&logoColor=white"/></a>
