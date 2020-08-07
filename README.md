@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey welcome, Ali is here 👋</h1>
 <p align="center">
-    <a href="https://www.facebook.com/ali.ussama"><img src="https://img.shields.io/badge/facebook-%230177B5?style=flat&logo=facebook&logoColor=whitee"/></a>
+    <a href="https://www.facebook.com/ali.ussama"><img src="https://img.shields.io/badge/facebook-%230177B5?style=flat&logo=facebook&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/aliussama"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://codeforces.com/profile/aliosama"><img src="https://img.shields.io/badge/codeforces-%231F8ACB?style=flat&logo=codeforces&logoColor=white"/></a>
     <a href="https://a2oj.com/profile?Username=ali+osama"><img src="https://img.shields.io/badge/Problem%20Solving-%23FFBB00?style=flat&logo=google%20keep&logoColor=white"/></a>
