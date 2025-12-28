@@ -16,9 +16,9 @@
 
 It's good to have you here, let me introduce myself first, I'm Ali Osama,
 
-- An experienced software engineer with a demonstrated history of working in the computer software industry.
+- A Senior Mobile Developer with a demonstrated history of working in the computer software industry.
 
-- Skilled in multiple programming language -> Java, Kotlin, Python and C++
+- Skilled in multiple programming language -> Dart, Java, Kotlin, Python and C++
 
 - And also skilled in -> Data Structures (Experienced) - Machine Learning (Basics)
 
@@ -31,6 +31,7 @@ Faculty of Computer and Information Science.
 
 ### Experience:
 
+- 🔭 Senior Mobile Engineer [@Qoad](https://www.qoad.com) in Cairo, Egypt
 - 🔭 Android Engineer [@Yelo](https://www.iyelo.com/en/) in Cairo, Egypt
 - 🔍 My live apps: 
   - [Yelo (Android App)](https://play.google.com/store/apps/details?id=com.wefaq.carsapp)  <a href="https://play.google.com/store/apps/details?id=com.wefaq.carsapp"><img src="https://img.shields.io/badge/-%2300EACE?style=flat&logo=google%20play&logoColor=white"/></a>
